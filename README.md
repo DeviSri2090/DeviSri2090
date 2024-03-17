@@ -1,15 +1,13 @@
-# Hi! I am   Nitish Parimi
+# Hi! I am   Charan Sri Charan
 
 
-- Email: nitishparimi8@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitish-parimi-0668bb235/)  
-- Stoptalk: [Stoptalk Profile](https://www.stopstalk.com/user/profile/2100031401/)
-- Credly: [Digital Badges](https://www.credly.com/users/nitish-parimi.2fd583f5)
-- Tableau: [Tableau Profile](https://public.tableau.com/app/profile/nitish.parimi/vizzes)
+- Email: 2100032546cseh@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/devi-sri-charan-939208248/)
+- Stoptalk: [Stoptalk Profile](https://www.stopstalk.com/user/profile/DEVI07)
   
 ## About Me
 
-I am a dedicated and passionate individual with a strong interest in cloud computing, networking, and embedded systems. I have gained valuable experience and certifications in AWS cloud computing and Red Hat.
+I am a dedicated and passionate individual with a strong interest in cloud computing, Artificial Intelligence, and Machine learning. I have gained valuable experience and certifications in AWS cloud computing and Red Hat.
 
 
 ## Certifications
