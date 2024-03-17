@@ -4,6 +4,7 @@
 - Email: devisricharan17@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/devi-sri-charan-939208248/)
 - Stoptalk: [Stoptalk Profile](https://www.stopstalk.com/user/profile/DEVI07)
+- Credly:https://www.credly.com/earner/earned
   
 ## About Me
 
