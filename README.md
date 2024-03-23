@@ -5,7 +5,7 @@
 - Email: devisricharan17@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/devi-sri-charan-939208248/)
 - Stoptalk: [Stoptalk Profile](https://www.stopstalk.com/user/profile/DEVI07)
-- Credly:https://www.credly.com/earner/earned
+- Credly: https://www.credly.com/earner/earned
 - 
 
 ## 👨🏻‍💻 About me
@@ -28,11 +28,6 @@ I'm a student at KL.UNIVERSITY in Computer Science and Engeneering. I'm actively
 #### Backend Development
 <!-- NodeJS --> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <!-- Express --> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
-
-#### AI/ML
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <!-- Numpy --> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> <!-- scikit_learn --> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <!-- Seaborn --> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 #### Database
 <!-- MySQL -->
