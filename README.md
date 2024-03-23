@@ -1,7 +1,5 @@
 # Hi 👋, I'm Devi Sri Charan 
 
-![Profile views](https://komarev.com/ghpvc/?username=devisri-charan&label=Profile%20views&color=0e75b6&style=flat)
-
 - Email: devisricharan17@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/devi-sri-charan-939208248/)
 - Stoptalk: [Stoptalk Profile](https://www.stopstalk.com/user/profile/DEVI07)
