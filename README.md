@@ -6,7 +6,7 @@
 - Credly:[ https://www.credly.com/earner/earned](https://www.credly.com/users/devi-sri-charan)
 - Feel free to reach out to me! I'm always open to discussing new ideas, projects, or opportunities to be part of your visions.
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me.
 
 I'm a student at KL.UNIVERSITY in Computer Science and Engeneering. I'm actively looking for internships and open-source collaborations  AI/ML projects to improve my skills and solve real-world problems that can make someone's task easy.
 
